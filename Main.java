@@ -18,7 +18,7 @@ class Main {
       }
     if (randomNum < 25)
     {
-      System.out.println("Ahoy mateys!");
+      System.out.println("Ahoy Matey's!");
     }
     else if (randomNum > 25 && randomNum < 42)
     {
