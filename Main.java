@@ -1,3 +1,9 @@
+/*
+Lab 4
+Tiernan Hull and Jake Knapke
+9/16/2020
+*/
+
 import java.util.Random;
 
 class Main {
